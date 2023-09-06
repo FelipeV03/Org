@@ -1,0 +1,11 @@
+select{
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.234);
+}
+
+/* .form-control{
+    color: rgb(84, 84, 84);
+} */
+
+select #select{
+    color: rgb(84, 84, 84);
+}

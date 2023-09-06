@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.accordion{
+    padding: 40px;
+    width: 100%;
+}
+
+#itemAcordion{
+    border-radius: 50px;
+    box-shadow: 7px 7px 15px 0px rgba(0, 0, 0, 0.124);
+}
+
+.formulario{
+    padding: 40px;
+    background-color: #f6f6f6;
+    border-radius: 0 0 50px 50px
+}
+
+.form-control{
+    padding: 20px;
+}
+
+.accordion-button{
+    padding: 25px;
+    border: solid 1px #0077ff;
+}
+
+.btn{
+    padding: 20px;
+    width: 140px;
+    margin: 15px;
+}
+.form-control  #id {
+    padding: 0px;
+}
